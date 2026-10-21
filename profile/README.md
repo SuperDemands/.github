@@ -1,6 +1,6 @@
 # Superdemands
 
-See what people want and where it is heading. Five years of Google search interest for every trending topic, with momentum, growth and seasonality, updated daily.
+Google search trends and search demand for every trending topic. See what people want and where it is heading: five years of search interest, with momentum, growth and seasonality, updated daily.
 
 - **Demand history:** five years of search interest per topic
 - **Momentum:** is demand rising, peaking or fading
